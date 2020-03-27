@@ -45,3 +45,8 @@ color: red;
 body {
 background: white;
 }
+
+#image {
+  max-width: 500px;
+  display: block;
+}
